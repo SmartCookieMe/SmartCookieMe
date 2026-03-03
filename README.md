@@ -1,15 +1,86 @@
-## Привет！ 👋
-Меня зовут Ольга, я QA Engineer
+# Привет! Я Ольга 👋
+
+## Junior QA Engineer, которая пришла не «попробовать», а остаться
+
+Я из тех, кто находит баг в меню ресторана и мысленно оформляет баг-репорт.
+Это не лечится — это монетизируется 😄
+
+---
+
+### 🔍 Кто я
+
+Тестировщик на старте карьеры с серьёзной базой и горящими глазами.
+Прошла обучение в Нетологии (курс «Тестировщик ПО») и QA Studio —
+а значит, у меня не один взгляд на профессию, а два. И оба — внимательные.
+
+📌 Прямо сейчас ищу работу и готова включиться в боевые задачи.
+
+---
+
+### 🛠 Что умею
+
+| Навык | Уровень |
+|---|---|
+| Postman | 💪 Уверенное владение — REST API, коллекции, переменные, тесты |
+| SQL | 💪 SELECT, JOIN, подзапросы, фильтрация, агрегация — мой комфорт |
+| Теория тестирования | Виды, уровни, техники тест-дизайна (КЭ, ГЗ, попарное и др.) |
+| Тестовая документация | Тест-кейсы, чек-листы, баг-репорты |
+| DevTools | Анализ запросов, консоль, элементы |
+| Git & GitHub | Базовые операции, работа с репозиториями |
+| Charles / Fiddler | Перехват и подмена трафика |
+| Jira / TestRail | Ведение задач и тестовой документации |
+| Основы автоматизации | Базовое понимание, первые шаги (и большие планы) |
+
+---
+
+### 🚀 Куда иду
+
+Моя цель — автоматизация тестирования.
+
+Не потому что «это модно», а потому что я физически не могу делать
+одно и то же руками, если это может делать скрипт.
+Люблю экономить время, упрощать процессы и выжимать максимум из рабочего дня.
+
+Ручное тестирование для меня — это фундамент и способ глубоко понять продукт.
+Автоматизация — это то, во что я хочу вырасти.
+
+---
+
+### 📂 Портфолио
+
+> 🏗 Раздел в процессе наполнения — скоро здесь появятся:
+> - Примеры баг-репортов и тест-кейсов
+> - Коллекции Postman с тестами API
+> - SQL-запросы к учебным базам данных
+> - Мои первые автотесты
+
+---
+
+### ⚡ Три причины взять меня в команду
+
+1. Я замечаю то, что другие пропускают — внимательность к деталям у меня
+   не навык, а свойство личности
+2. Я не жду, пока научат — сама нахожу информацию, разбираюсь, применяю
+3. Со мной не скучно — я живой человек с характером, который умеет
+   и в дедлайны, и в командную работу, и в здоровое чувство юмора
+
+---
+
+### 📫 Как связаться
+
+- 📧 Email: angel_2008_year@mail.ru
+- 💬 Telegram: @smartcookieme
+- 📄 Резюме: https://hh.ru/resume/d3b4b5a3ff0bbb03b90039ed1f316477636754
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=smartcookiem)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=smartcookiem)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=smartcookieme)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=smartcookieme)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=smartcookiem)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=smartcookieme)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -86,11 +157,6 @@
 
 Здесь скоро будут ачивки.....
 
-<br>
+
 <br>
 
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:angel_2008_year@mail.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/smartcookieme)
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
